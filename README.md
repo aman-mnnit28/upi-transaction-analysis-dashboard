@@ -70,8 +70,6 @@ UPI-Transaction-Analysis-Dashboard/
 - Delhi and Hyderabad are the leading cities by transaction value.
 
 ## 👤 Author
-**[Your Name]**
-[LinkedIn](#) · [Portfolio](#)
+**[AMAN]**
 
-## 📄 License
-This project is licensed under the MIT License — feel free to reuse with attribution.
+
